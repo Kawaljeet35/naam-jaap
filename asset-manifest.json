@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/naam-jaap/static/css/main.cf890fdb.css",
+    "main.js": "/naam-jaap/static/js/main.f8d5ae05.js",
+    "index.html": "/naam-jaap/index.html",
+    "main.cf890fdb.css.map": "/naam-jaap/static/css/main.cf890fdb.css.map",
+    "main.f8d5ae05.js.map": "/naam-jaap/static/js/main.f8d5ae05.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf890fdb.css",
+    "static/js/main.f8d5ae05.js"
+  ]
+}
